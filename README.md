@@ -26,21 +26,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
-
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
-<!--Intro end-->
-
+- 🔭 Computer Science student at the San Pablo Catholic University of Arequipa.
+- 📫 My desire to get out of my comfort zone, my discipline and my social skills drive me to constantly grow in multiple aspects of my life.
+- ☁️ My passion for innovation leads me to look for opportunities to make a difference and reach new horizons in my career.
 
 
 <!--- stats & Trophy (start) -->
